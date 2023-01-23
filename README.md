@@ -16,4 +16,4 @@ In the section titled "Work" can be found links to different deployed applicatio
 
 ## Deployment Link
 
-https://antoniorobledo.github.io/My-Technical-Portfolio/
+https://antoniorobledo.github.io/My-Technical-Portfolio
