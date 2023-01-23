@@ -13,3 +13,7 @@ In the section titled "Work" can be found links to different deployed applicatio
  A smaller functionality that I have included can be found in images under the work section: as can be seen, whenever a cursor is moved over an application, the image as well as the text becomes enlarged and changes the font to red.  
 
 ![screenshot](assets/images/Portfolio_Pg_3.png)
+
+## Deployment Link
+
+https://antoniorobledo.github.io/My-Technical-Portfolio/
